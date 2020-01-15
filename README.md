@@ -15,16 +15,6 @@ A table is an arrangement of data in rows and columns, or possibly in a more com
 - DataTables [Link](https://datatables.net/)
 - ThemeForest [Link](https://themeforest.net/category/site-templates/admin-templates)
 
-Drag and Drop
-- Sortable [Link](https://sortablejs.github.io/Sortable/#grid)
-- Interactjs [Link](https://interactjs.io/)
-- Shopify [Link](https://shopify.github.io/draggable/examples/)
-- Displace [Link](https://catc.github.io/displace/#demo)
-- Packery [Link](https://packery.metafizzy.co/)
-- React Grid [Link](https://github.com/STRML/react-grid-layout)
-- Atlasian [Link](https://github.com/atlassian/react-beautiful-dnd)
-
-
 Github has a ton of resources for Data Tables https://github.com/DataTables/DataTables
 
 Example Preview of a Data Table 
