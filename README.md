@@ -18,6 +18,7 @@ A table is an arrangement of data in rows and columns, or possibly in a more com
 - DataTables [Link](https://datatables.net/)
 - Metrica [Link](https://mannatthemes.com/metrica/light/analytics/analytics-reports.html)
 - ThemeForest [Link](https://themeforest.net/category/site-templates/admin-templates)
+- InnovateMap [Link](https://paper.dropbox.com/doc/Tables-vs.-Data-Grids--A4RSkLk0OVFTVFqo568uIy78Ag-0XK9zYitVwwcqrLyd9jRz)
 
 ---
 
