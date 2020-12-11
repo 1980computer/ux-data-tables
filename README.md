@@ -1,4 +1,4 @@
-# Data Tables
+## Data Tables
 
 A table is an arrangement of data in rows and columns, or possibly in a more complex structure. Tables are widely used in communication, research, and data analysis. Tables appear in print media, handwritten notes, computer software, architectural ornamentation, traffic signs, and many other places.
 
