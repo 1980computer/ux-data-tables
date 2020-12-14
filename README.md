@@ -22,6 +22,8 @@ A table is an arrangement of data in rows and columns, or possibly in a more com
 [Vanilla Table](https://github.com/Mobius1/Vanilla-DataTables) •
 [Ant Design](https://ant.design/docs/spec/data-display#header) •
 [Angular Table](https://l-lin.github.io/angular-datatables/#/basic/zero-config) •
+[TailwindCSS Table](https://tailwindcss.com/docs/table-layout) •
+[Chakra UI Table](https://chakra-ui.com/docs/data-display/table) •
 [More github resources](https://github.com/search?q=data+tables)
 
 ---
