@@ -36,7 +36,7 @@ A table is an arrangement of data in rows and columns, or possibly in a more com
 [Shopify](https://polaris.shopify.com/components/lists-and-tables/data-table) •
 [QuickBooks](https://designsystem.quickbooks.com/component/tables/) •
 [Intercom](https://www.intercom.com/) •
-[Metrica](https://mannatthemes.com/metrica/light/analytics/analytics-reports.html) •
+[Metrica](https://mannatthemes.com/metrica/metrica_simple/others/tables-datatable.html) •
 [ThemeForest](https://themeforest.net/category/site-templates/admin-templates) •
 [InnovateMap](https://paper.dropbox.com/doc/Tables-vs.-Data-Grids--A4RSkLk0OVFTVFqo568uIy78Ag-0XK9zYitVwwcqrLyd9jRz) •
 [Google Drive](https://drive.google.com/) •
