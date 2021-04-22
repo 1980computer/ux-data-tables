@@ -30,7 +30,7 @@ A table is an arrangement of data in rows and columns, or possibly in a more com
 
 ### Inspiration
 - [SalesForce](https://developer.salesforce.com/docs/component-library/bundle/lightning:datatable/example) •
-[Zendesk](https://garden.zendesk.com/react-components/tables/) •
+[Zendesk](https://garden.zendesk.com/components/table) •
 [Mailchimp](https://ux.mailchimp.com/patterns/tables) •
 [IBM](https://www.carbondesignsystem.com/components/data-table/usage/) •
 [Shopify](https://polaris.shopify.com/components/lists-and-tables/data-table) •
