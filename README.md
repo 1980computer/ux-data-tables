@@ -39,6 +39,7 @@ A table is an arrangement of data in rows and columns, or possibly in a more com
 [ThemeForest](https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/table/vue-good-table) •
 [InnovateMap](https://paper.dropbox.com/doc/Tables-vs.-Data-Grids--A4RSkLk0OVFTVFqo568uIy78Ag-0XK9zYitVwwcqrLyd9jRz) •
 [Google Drive](https://drive.google.com/) •
+[Ant Design](https://ant.design/components/table/)
 
 ---
 
