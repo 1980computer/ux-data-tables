@@ -35,12 +35,10 @@ A table is an arrangement of data in rows and columns, or possibly in a more com
 [IBM](https://www.carbondesignsystem.com/components/data-table/usage/) •
 [Shopify](https://polaris.shopify.com/components/lists-and-tables/data-table) •
 [QuickBooks](https://designsystem.quickbooks.com/component/tables/) •
-[Intercom](https://www.intercom.com/) •
 [Metrica](https://mannatthemes.com/metrica/metrica_simple/others/tables-datatable.html) •
 [ThemeForest](https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/table/vue-good-table) •
 [InnovateMap](https://paper.dropbox.com/doc/Tables-vs.-Data-Grids--A4RSkLk0OVFTVFqo568uIy78Ag-0XK9zYitVwwcqrLyd9jRz) •
 [Google Drive](https://drive.google.com/) •
-[Intercom](https://www.intercom.com/)
 
 ---
 
