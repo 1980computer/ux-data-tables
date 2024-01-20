@@ -43,5 +43,4 @@ A table is an arrangement of data in rows and columns, or possibly in a more com
 
 ---
 
-Made by [davidbanthony.com](https://davidbanthony.com)
 
