@@ -7,9 +7,10 @@ A table is an arrangement of data in rows and columns, or possibly in a more com
 ---
 
 ### Articles
-- [Molly - The Ultimate Guide to Designing Data Tables](https://medium.com/design-with-figma/the-ultimate-guide-to-designing-data-tables-7db29713a85a)
-- [Lalatendu - Designing better data tables for enterprise UX](https://uxdesign.cc/data-table-for-enterprise-ux-cb48fb9fdf1e)
-- [Andrew - The ingredients of a successful data table UI](https://medium.com/nextux/design-better-data-tables-4ecc99d23356)
+- [Design better data tables](https://matthewstrom.com/writing/tables/)
+- [The Ultimate Guide to Designing Data Tables](https://medium.com/design-with-figma/the-ultimate-guide-to-designing-data-tables-7db29713a85a)
+- [Designing better data tables for enterprise UX](https://uxdesign.cc/data-table-for-enterprise-ux-cb48fb9fdf1e)
+- [The ingredients of a successful data table UI](https://medium.com/nextux/design-better-data-tables-4ecc99d23356)
 
 ---
 
@@ -29,7 +30,9 @@ A table is an arrangement of data in rows and columns, or possibly in a more com
 ---
 
 ### Inspiration
-- [SalesForce](https://developer.salesforce.com/docs/component-library/bundle/lightning:datatable/example) •
+- [Intuit](https://contentdesign.intuit.com/style-and-usage/numbers/) •
+[Shopify](https://polaris.shopify.com/components/tables/data-table) •
+[SalesForce](https://developer.salesforce.com/docs/component-library/bundle/lightning:datatable/example) •
 [Zendesk](https://garden.zendesk.com/components/table) •
 [Mailchimp](https://ux.mailchimp.com/patterns/tables) •
 [IBM](https://www.carbondesignsystem.com/components/data-table/usage/) •
